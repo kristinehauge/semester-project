@@ -1,1 +1,2 @@
 Initial Notes
+Feature: Add new insight
